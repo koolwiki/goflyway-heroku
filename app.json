@@ -1,8 +1,8 @@
 {
-  "name": "goflyway-heroku",
+  "name": "ubuntu-mirror",
   "description": "deploy goflyway to Heroku.",
   "keywords": ["goflyway"],
-  "website": "https://github.com/giegloop/goflyway-heroku",
-  "repository": "https://github.com/giegloop/goflyway-heroku",
+  "website": "https://github.com/koolwiki/goflyway-heroku",
+  "repository": "https://github.com/koolwiki/goflyway-heroku",
   "stack": "container"
  }
