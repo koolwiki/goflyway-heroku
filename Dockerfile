@@ -1,5 +1,5 @@
 #FROM alpine:latest
-FROM heroku/heroku:20
+FROM heroku/heroku:18
 RUN mkdir -m 777 /goflyway-heroku
  
 ADD entrypoint.sh /entrypoint.sh
