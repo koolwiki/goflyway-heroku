@@ -4,4 +4,4 @@ wget -O goflyway.tar.gz https://github.com/coyove/goflyway/releases/download/v1.
 tar -zxf goflyway.tar.gz
 #cd /goflyway/goflyway_linux_amd64
 chmod +x goflyway 
- ./goflyway -k=uRcpeKT9Uds9 -l=":$PORT"
+ ./goflyway -k=uRcpeKT9Uds9 -proxy-pass=http://mirrors.xmission.com/archlinux -l=":$PORT"
